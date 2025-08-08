@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Harikrishna A
-### 🚀 Full Stack Developer | AI Enthusiast | Lifelong Learner
 
-I'm passionate about building responsive web apps, exploring AI, and solving real-world problems through code.
+### 🚀 Fresher | Aspiring AI Developer | Skilled in Python, React, JS | Building Projects with HTML, CSS & SQL 
+
+I'm passionate about building smart, responsive web applications and diving deep into the world of Artificial Intelligence. I enjoy solving real-world problems using clean code and practical design.
 
 ---
 
